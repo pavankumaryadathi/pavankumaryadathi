@@ -1,4 +1,4 @@
-# Hi there, I'm PAVAN KUMAR YADTI 👋
+# Hi there, I'm PAVAN KUMAR YADATI 👋
 
 ### Data Analyst | SQL • Excel • Tableau • Python
 
