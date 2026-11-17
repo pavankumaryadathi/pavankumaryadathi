@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Analyst;SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau+%7C+Python;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Analyst;SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau+%7C+Python;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
   </a>
 
   <h1>Hi 👋, I'm Pavan Kumar Yadati</h1>
@@ -25,14 +25,14 @@
 
 ## 📊 About Me
 
-I'm a **Data Analyst** based in Hyderabad, India, passionate about transforming raw data into meaningful business insights[cite: 2].
+I'm a **Data Analyst** based in Hyderabad, India, passionate about transforming raw data into meaningful business insights.
 
 I enjoy solving real-world business problems using **SQL, Excel, Power BI, Tableau, Python, and Pandas** while continuously building clean, interactive dashboards and data workflows.
 
 - 🌱 Currently working on **Advanced SQL, Power BI, Tableau & Python analytics**
 - 📊 Building end-to-end **Data Analytics projects**
 - 🎯 Goal: **Deliver actionable business intelligence through clear data storytelling**
-- 📍 **Hyderabad, India**[cite: 2]
+- 📍 **Hyderabad, India**
 
 ---
 
