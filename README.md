@@ -12,6 +12,7 @@
   <!-- Top Mini Badges -->
   <p>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -27,7 +28,7 @@
 
 I'm a **Data Analyst** based in Hyderabad, India, passionate about transforming raw data into meaningful business insights.
 
-I enjoy solving real-world business problems using **SQL, Excel, Power BI, Tableau, Python, and Pandas** while continuously building clean, interactive dashboards and data workflows.
+I enjoy solving real-world business problems using **SQL, MySQL, Excel, Power BI, Tableau, Python, and Pandas** while continuously building clean, interactive dashboards and data workflows.
 
 - 🌱 Currently working on **Advanced SQL, Power BI, Tableau & Python analytics**
 - 📊 Building end-to-end **Data Analytics projects**
@@ -40,6 +41,7 @@ I enjoy solving real-world business problems using **SQL, Excel, Power BI, Table
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
@@ -55,7 +57,11 @@ I enjoy solving real-world business problems using **SQL, Excel, Power BI, Table
 
 ### 1. [Bank Analytics Project](https://github.com/pavankumaryadathi/Bank_analytics_project)
 - **Tools:** SQL, Excel, Power BI, Tableau
-- **Overview:** End-to-end banking dataset analysis exploring loan performance, customer segmentation, and key risk metrics.
+- **Overview:** End-to-end banking dataset analysis exploring loan performance, credit & debit cash flows, customer segmentation, and key risk metrics.
+
+### 2. [Retail Sales Analytics Project](https://github.com/pavankumaryadathi/Retail_sales_pro)
+- **Tools:** MySQL, Power BI, DAX, Excel
+- **Overview:** Analyzed 50,000+ retail transactions using MySQL queries and an interactive Power BI star-schema dashboard to track revenue growth, category margins, and seasonal customer trends.
 
 ---
 
